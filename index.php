@@ -1,3 +1,3 @@
 <?php 
-    echo "Hola Mundo Paradigma ci-cd Actualizacion";
+    echo "Hola Mundo Paradigma ci-cd Otra Actualizacion";
 ?>
